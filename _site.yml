@@ -1,6 +1,6 @@
 name: "Group O-Las Vegas Project"
 navbar:
-  title: "Las Vegas Restaurants"
+  title: "My Website"
   left:
     - text: "Home"
       href: Index.html
@@ -8,6 +8,8 @@ navbar:
       href: Data.html
     - text: "Exploratory Analysis"
       href: EDA.html
+    - text: "Text"
+      href: Text.html
     - text: "Map"
       href: Map.html
     - text: "Conclusion"
